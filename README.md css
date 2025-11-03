@@ -1,0 +1,45 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.user-card {
+  background: white;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+h3 {
+  margin: 10px 0;
+}
+}
